@@ -54,7 +54,7 @@ TEST(Authorization, GetUsers) {
 // MOCK TESTS:
 
 TEST(Authorization, CreateUser_Mock) {
-    //AuthorizationMock authorizationMock;
+    AuthorizationMock authorizationMock;
     //EXPECT_CALL(authorizationMock, create_user("adrian", "1234$")).WillOnce(testing::Return(true));
     //AuthorizationManager authManager(&authorizationMock);
     //EXPECT_TRUE(authManager.create_user("adrian", "1234$"));
