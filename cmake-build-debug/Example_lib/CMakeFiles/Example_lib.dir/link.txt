@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libExample_lib.a CMakeFiles/Example_lib.dir/Gregorian.cpp.o CMakeFiles/Example_lib.dir/Julian.cpp.o CMakeFiles/Example_lib.dir/Authorization.cpp.o CMakeFiles/Example_lib.dir/AuthorizationManager.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libExample_lib.a
